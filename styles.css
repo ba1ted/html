@@ -39,3 +39,25 @@
     top: 10vh;
     position: relative;
 }
+div
+{
+    background-color: turquoise;
+    width: 100px;
+    height: 100px;
+}
+.margin
+{
+    background-color: gray;
+    margin: 70px;
+}
+.padding
+{
+    padding: 50px;
+}
+.classic
+{
+    border: 50px ridge black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid red;
+    border-color: black;
+}
