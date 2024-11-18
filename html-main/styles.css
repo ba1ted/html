@@ -1,0 +1,81 @@
+.box
+{
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.box1
+{
+    display: flex;
+    flex-direction: row;
+    margin: 0px auto;
+}
+.b
+{
+    font-size: 50px;
+}
+.c
+{
+    
+    background-color: cadetblue;
+}
+.d
+{
+    background-color: yellow;
+}
+.e
+{
+    background-color: turquoise;
+}
+.f
+{
+    background-color: purple;
+}
+.putin
+{
+    left: 25vw;
+    top: 10vh;
+    position: relative;
+}
+div
+{
+    background-color: turquoise;
+    width: 100px;
+    height: 100px;
+}
+.margin
+{
+    background-color: gray;
+    margin: 70px;
+}
+.padding
+{
+    padding: 50px;
+}
+.classic
+{
+    border: 50px ridge black;
+    border-bottom: 10px solid black;
+    border-right: 10px solid red;
+    border-color: black;
+}
+.space 
+{
+    background: url(/png/pngwing.png) no-repeat center center fixed;
+    background-size: cover;
+}
+.planet
+{
+    position: absolute;
+    border-radius: 100%;
+    background-color: cover;
+}
+.asteroid {background-image: url(/png/asteroid.png);}
+.planet1 {background-image: url(/png/planet-1.png); left: 700px; top: 100px}
+.planet2 {background-image: url(/png/planet-2.png); left: 500px; top: 400px}
+.planet3 {background-image: url(/png/planet-3.png); left: 750px; top: 700px;}
+.spaceship {background-image: url(/png/spaceship.png);}
+.superman {background-image: url(/png/superman.png);}
+.ufo {background-image: url(/png/ufo.png);}
